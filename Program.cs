@@ -240,6 +240,7 @@ class Program
         }
     }
 
+
     private static bool ReadBool(string prompt)
     {
         while (true)

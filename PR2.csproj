@@ -5,6 +5,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>PR2</AssemblyName>
+    <RootNamespace>PR2</RootNamespace>
   </PropertyGroup>
 
 </Project>
